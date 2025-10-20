@@ -1,0 +1,6 @@
+[submodule "anomaly-transaction"]
+	path = anomaly-transaction
+	url = git@github.com:Ran4er/anomaly-transaction.git
+[submodule "credit-scoring"]
+	path = credit-scoring
+	url = git@github.com:Ran4er/credit-scoring.git
